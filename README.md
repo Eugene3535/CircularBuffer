@@ -4,9 +4,7 @@ Test work for Danfoss. It`s forked repo from Vitaly Kotsurenko( https://github.c
 Тестовая работа для компании Данфосс. Является ответвлением репозитория Виталия Коцуренко. Репозиторий создан из публичных материалов
 исключительно с целью изучения структуры данных
 
-In order to compile this project you will need to:
-1) have CMake installed
-2) have MSVS compiler installed
+In order to compile this project you will need to have CMake installed
 
 mkdir build                        
 cd build                           
