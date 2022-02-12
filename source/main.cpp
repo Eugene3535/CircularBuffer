@@ -74,6 +74,8 @@ int main()
 	for (auto& value : buffer)
 		std::cout << value << ' ';
 	std::cout << '\n';
+	
+	system("pause");
 
 	return EXIT_SUCCESS;
 }
